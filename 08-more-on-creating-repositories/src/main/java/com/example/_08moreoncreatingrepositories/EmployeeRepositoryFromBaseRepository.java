@@ -1,0 +1,4 @@
+package com.example._08moreoncreatingrepositories;
+
+public interface EmployeeRepositoryFromBaseRepository extends EmployeeBaseRepository{
+}
